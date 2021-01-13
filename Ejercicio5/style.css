@@ -1,0 +1,26 @@
+  
+#formulario {
+    border: 1px solid black;
+    padding: 20px;
+  }
+  .etiqueta_formulario {
+    font-weight: bolder;
+    width: 100px;
+    padding-right: 30px;
+    float: left;
+  }
+  .boton {
+    text-align: center;
+  }
+  .boton_enviar {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 14px;
+  }
+  .boton_enviar:hover {
+    cursor: pointer;
+    background-color: lightseagreen;
+  }
