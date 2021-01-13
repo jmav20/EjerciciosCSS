@@ -1,0 +1,15 @@
+.general{
+    font-size:14px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    color:brown;
+    background-color: rgb(185, 216, 236);
+    margin:1.5;
+ }
+ @media all and (max-width:600px){
+     h2{
+        background-color: green; 
+     }
+     ul{
+         background-color: orange;
+     }
+ }
